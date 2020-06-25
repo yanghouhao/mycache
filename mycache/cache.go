@@ -1,7 +1,7 @@
 package mycache
 
 import (
-	"mycache/lru"
+	"mycache/day3/mycache/lru"
 	"sync"
 )
 
